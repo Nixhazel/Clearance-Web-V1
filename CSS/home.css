@@ -1,0 +1,108 @@
+body{
+  background-color: #DDDDDD;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+hr{
+  border-style: dotted none none;
+  border-color: #222831;
+  border-width: 3px;
+  width: 70%;
+}
+
+
+.container{
+  background-color: #222831
+}
+.firstdiv{
+  background-color: #222831;
+  color: #DDDDDD;
+  padding: 0 20px 10px 20px;
+  height: 170px;
+
+}
+.formconten{
+  background-color: #DDDDDD;
+  color: #30475E;
+  margin: auto;
+}
+.formperinfo{
+  background-color: #DDDDDD;
+  color: #30475E;
+  margin: auto;
+  font-weight: bold;
+}
+
+.profilepicdiv2{
+  display: inline-block;
+}
+.profilePic{
+  border-radius: 50%;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-right: 10px
+}
+.profileinfo{
+  display: inline-block;
+  margin-left: 10px;
+  position: relative;
+  top: 45px
+}
+.fuprelogo{
+  display: inline-block;
+}
+.fuprelogoimg{
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  position: relative;
+  left: 800px;
+}
+.startclearanceh3{
+  text-align: center;
+  color: #30475E;
+}
+.personalinfo{
+  color: #30475E;
+  position: relative;
+  text-align: center;
+  font-size: 20px;
+}
+.clearancereqdiv{
+  width: 800px;
+  margin: auto;
+  font-weight: bold;
+}
+.personalinfipp{
+  width: 800px;
+  margin: auto;
+}
+.requesttab{
+  width: 200px;
+  margin: auto;
+  display: inline-block;
+}
+.clearedtab{
+    width: 200px;
+    margin: auto;
+    display: inline-block;
+}
+.clearanceP{
+  display: inline-block;
+  text-align: left;
+}
+.lecrequests{
+  height: 200px;
+  font-size: 25px;
+}
+.editupload{
+  display: inline-block;
+  position: relative;
+  left: 880px;
+}
+.saveChangesbutt{
+  position: relative;
+  left: 140px;
+  margin-bottom: 15px;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cleance-system",
+  "version": "1.0.0",
+  "description": "This is a Student Clearance Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanel Olokor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1"
+  },
+  "devDependencies": {}
+}
